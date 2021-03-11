@@ -5,7 +5,7 @@
 <tbody>
 <tr>
 <td>
-Hello, I'm Shubham Kumar, A full stack web developer and ML enthusiast. I am working on Node JS and planning to Dive deep into latest technologies like serverless, etc. I am curently working on Open Source. Looking for a time in life to really follow the loop :
+Hello, I'm Shubham Kumar, A full stack web developer and ML enthusiast. I am working on Node JS and planning to Dive deep into latest technologies like serverless, Elixir, etc. I am curently working on Open Source. Looking for a time in life to really follow the loop :
 <br/><br/>
 while(alive){<br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eat();<br/>
