@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 
-</br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-</br>
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+<table>
+<tbody>
+<tr>
+<td>
+Hello, I'm Shubham Kumar, A full stack web developer and ML enthusiast. I am working on Node JS and planning to Dive deep into latest technologies like serverless, etc. I am curently working on Open Source. Looking for a time in life to really follow the loop :
+<br/><br/>
+while(alive){<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eat();<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code() || travel();<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sleep();<br/>
+}<br/>
+</td>
+<td width="400"><img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="" width="400" /></td>
+</tr>
+</tbody>
+</table>
 
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-**About Me**
-<p>
-Hello, I’m Shubham Kumar, A full stack web developer and ML enthusiast. I am working on Node JS and planning to Dive deep into latest technologies like serverless, etc. I am curently working on Open Source. Looking for a time in life to really follow the loop :
 
-```
-while(alive){
-    eat();
-    code() || travel();
-    sleep();
-}
-```
-<p/>
 ## 🛠️ **Languages & Tools:**
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -45,10 +47,6 @@ while(alive){
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubham-Kumar-2000&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a>
 
-
-<a href="https://github.com/Shubham-Kumar-2000/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shubham-Kumar-2000&layout=Demo&theme=blue-green" />
-</a>
 
 ## 📫 **Link Tree:**
 <p align="center">
