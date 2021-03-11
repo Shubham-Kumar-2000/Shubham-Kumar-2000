@@ -6,7 +6,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 **About Me**
-
+<p>
 Hello, I’m Shubham Kumar, A full stack web developer and ML enthusiast. I am working on Node JS and planning to Dive deep into latest technologies like serverless, etc. I am curently working on Open Source. Looking for a time in life to really follow the loop :
 
 ```
@@ -16,6 +16,7 @@ while(alive){
     sleep();
 }
 ```
+<p/>
 ## 🛠️ **Languages & Tools:**
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
