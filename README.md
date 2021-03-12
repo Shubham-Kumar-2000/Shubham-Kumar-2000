@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 
+</br>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+</br>
+
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
-<table>
-<tbody>
-<tr>
-<td>
 Hello, I'm Shubham Kumar, A full stack web developer and ML enthusiast. I am working on Node JS and planning to Dive deep into latest technologies like serverless, Elixir, etc. I am curently working on Open Source. Looking for a time in life to really follow the loop :
 <br/><br/>
 while(alive){<br/>
@@ -12,11 +12,6 @@ while(alive){<br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code() || travel();<br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sleep();<br/>
 }<br/>
-</td>
-<td width="400"><img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="" width="400" /></td>
-</tr>
-</tbody>
-</table>
 
 
 ## 🛠️ **Languages & Tools:**
