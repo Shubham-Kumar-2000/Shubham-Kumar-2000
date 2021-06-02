@@ -46,9 +46,17 @@ while(alive){<br/>
 
 ## 📈 **Github Stats:**
 
-<a href="https://github.com/Shubham-Kumar-2000">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubham-Kumar-2000&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
-</a>
+<p align="center"  href="https://github.com/Shubham-Kumar-2000">
+    <a href="https://github.com/Shubham-Kumar-2000">
+        <img  width="460" src="https://github-readme-stats.vercel.app/api?username=Shubham-Kumar-2000&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+    </a>
+    <a href="https://github.com/Shubham-Kumar-2000">
+        <img  width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Kumar-2000&theme=tokyonight" />
+    </a>
+</p>
+<p align="center">
+  <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Shubham-Kumar-2000/count.svg" alt="Visitor Count" /></h2>
+</p>
 
 
 ## 📫 **Link Tree:**
