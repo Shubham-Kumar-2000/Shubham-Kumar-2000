@@ -48,10 +48,10 @@ while(alive){<br/>
 
 <p align="center"  href="https://github.com/Shubham-Kumar-2000">
     <a href="https://github.com/Shubham-Kumar-2000">
-        <img  width="460" src="https://github-readme-stats.vercel.app/api?username=Shubham-Kumar-2000&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+        <img  width="400" src="https://github-readme-stats.vercel.app/api?username=Shubham-Kumar-2000&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
     </a>
     <a href="https://github.com/Shubham-Kumar-2000">
-        <img  width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Kumar-2000&theme=tokyonight" />
+        <img  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Kumar-2000&theme=tokyonight" />
     </a>
 </p>
 <p align="center">
